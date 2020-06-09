@@ -32,5 +32,5 @@ public class UserDTO {
 
     private LocalDate birthday;
 
-    private BpInfo bpInfo;
+    private BpInfoDto bpInfo;
 }
